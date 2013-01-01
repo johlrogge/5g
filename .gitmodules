@@ -1,0 +1,24 @@
+[submodule "modules/curl"]
+	path = modules/curl
+	url = git://github.com/cujojs/curl.git
+[submodule "modules/when"]
+	path = modules/when
+	url = git://github.com/cujojs/when.git
+[submodule "modules/bootstrap"]
+	path = modules/bootstrap
+	url = git://github.com/twitter/bootstrap.git
+[submodule "modules/twig"]
+	path = modules/twig
+	url = git://github.com/herbalism/twig.git
+[submodule "modules/foliage"]
+	path = modules/foliage
+	url = git://github.com/herbalism/foliage.git
+[submodule "modules/papyrus"]
+	path = modules/papyrus
+	url = git://github.com/herbalism/papyrus.git
+[submodule "modules/markdown-js"]
+	path = modules/markdown-js
+	url = git://github.com/evilstreak/markdown-js.git
+[submodule "modules/lodash"]
+	path = modules/lodash
+	url = git://github.com/bestiejs/lodash.git

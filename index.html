@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <script src="loaderconf.js" type="text/javascript"></script>
+    <script src="modules/curl/src/curl.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      define("twig-base", [] , function() {
+      return window;
+      });
+      curl(['css!bootstrap/css/bootstrap.css']).
+      next(['css!bootstrap/css/bootstrap-responsive.css']).
+      next(['twig']);
+    </script>
+    <script src="js/ext/jquery-1.8.2.js" type="text/javascript"></script>
+    <script src="modules/bootstrap/docs/assets/js/bootstrap.js" type="text/javascript"></script>
+  </HEAD>
+  <BODY>
+  </BODY>
+</html>
