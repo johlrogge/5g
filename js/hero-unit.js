@@ -1,5 +1,6 @@
 define(['foliage',
-       'md!herotext.md'], 
+       'md!herotext.md',
+       'css!style/hero-unit.css'], 
        function(f,
 		heroText ) {
 	   return f.div(

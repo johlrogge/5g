@@ -8,7 +8,8 @@ curl = {
 	'curl/plugin/md': '../modules/papyrus/papyrus-md',
 	'curl/plugin/js': '../modules/curl/src/curl/plugin/js',
 	'curl/plugin/text': '../modules/curl/src/curl/plugin/text',
-	'bootstrap/css': '../modules/bootstrap/docs/assets/css'
+	'bootstrap/css': '../modules/bootstrap/docs/assets/css',
+	'style': '../css'
     },
     packages: {
 	'lodash': {
@@ -48,5 +49,3 @@ curl = {
         }
     }
 };
-
-
