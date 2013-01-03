@@ -13,7 +13,5 @@ define(['foliage',
     return f.div({'class': 'container'},
 		 heroUnit,
 		 row(f.all(f.div({'class': 'span6'}, intro), 
-			   f.div({'class': 'span6'}, log))))
-
-
+			   f.div({'class': 'span6'}, log, f.img({src:'images/30min.svg'})))))
 })
