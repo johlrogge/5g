@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-05 Färger i bootstrap och skapa en gradient
+---------------------------------------------------
+Jag ha börjat lägga in *reglerna* i en regelruta. Jag lyckades hinna ungefär så mycket som jag trodde att jag skulle hinna och fick användning för min grafiska representation av 30 minuter. **Äntligen!**
+
 2013-01-04 Färger i bootstrap och skapa en gradient
 ---------------------------------------------------
 Idag fixade jag så att jag kan ändra standardfärgerna i bootstrap.
