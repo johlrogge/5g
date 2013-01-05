@@ -1,5 +1,15 @@
 Log
 ==========
+2013-01-04 Färger i bootstrap och skapa en gradient
+---------------------------------------------------
+Idag fixade jag så att jag kan ändra standardfärgerna i bootstrap.
+Jag lyckades också göra en gradien som en mixin i less.
+Imorgon (eller idag som det hunnit bli) tänkte jag försöka mig på att
+stoppa in en bakgrundsbild i hjälteenheten. Jag har faktiskt kollat att
+det funkar i både chrome, firefox och chrome på android och standard android.
+Jag vet också med säkerhet att sidan inte funkar i opewra och utgår kallt från
+att den inte funkar i internet explorer heller.
+
 2013-01-03 30 minuter på 30 minuter
 -----------------------------------
 Idag försökte jag mig på att rita en symbol för 30 minuter i inkscape. Kluriga grejer. Jag länkar till den här så att ni kan se [eländet](images/30min.svg)

@@ -9,12 +9,19 @@ curl = {
 	'curl/plugin/js': '../modules/curl/src/curl/plugin/js',
 	'curl/plugin/text': '../modules/curl/src/curl/plugin/text',
 	'bootstrap/css': '../modules/bootstrap/docs/assets/css',
-	'style': '../css'
+	'bootstrap/less': '../modules/bootstrap/less',
+	'bootstrap/less/variables.less': '../less/variables.less',
+	'less': '../modules/less.js/dist/less-1.3.3.js',
+	'style': '../less'
     },
     packages: {
 	'lodash': {
 	    'location':'../modules/lodash',
 	    'main':'lodash'
+	},
+	'blossom': {
+	    'location':'../modules/blossom',
+	    'main':'blossom'
 	},
 	'markdown': {
 	    'path': '../modules/markdown-js/lib',
