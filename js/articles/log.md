@@ -1,7 +1,7 @@
 Log
 ==========
-2013-01-05 Färger i bootstrap och skapa en gradient
----------------------------------------------------
+2013-01-05 Reglerna i hjälteenheten
+-----------------------------------
 Jag ha börjat lägga in *reglerna* i en regelruta. Jag lyckades hinna ungefär så mycket som jag trodde att jag skulle hinna och fick användning för min grafiska representation av 30 minuter. **Äntligen!**
 
 2013-01-04 Färger i bootstrap och skapa en gradient
