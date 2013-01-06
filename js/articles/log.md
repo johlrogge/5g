@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-06 Gris för gratis
+-----------------------------------
+Jag började rita en spargris för att symbolisera gratis. Jag är inte helt missnöjd så här långt men jag måste ju uppenbarligen arbeta lite på enhetligheten i symbolerna.
+
 2013-01-05 Reglerna i hjälteenheten
 -----------------------------------
 Jag ha börjat lägga in *reglerna* i en regelruta. Jag lyckades hinna ungefär så mycket som jag trodde att jag skulle hinna och fick användning för min grafiska representation av 30 minuter. **Äntligen!**
