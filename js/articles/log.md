@@ -1,5 +1,11 @@
 Log
 ==========
+2013-01-07 Glad mun för kul
+--------------------------------
+Jag ritade en bild för att symbolisera "hellre kul än bra". Bilden blev passande nog mer kul än bra.
+Jag kommer att överge mina ikoner ett tag och återkomma till dem senare. Det börjar bli dags att rita en logotyp
+för detta särdeles eminenta projekt!
+
 2013-01-06 Gris för gratis
 -----------------------------------
 Jag började rita en spargris för att symbolisera gratis. Jag är inte helt missnöjd så här långt men jag måste ju uppenbarligen arbeta lite på enhetligheten i symbolerna.

@@ -24,15 +24,12 @@
 }
 
 .hero-unit {
-    .gradient(@pink, @black);
+    .gradient(@pink, darken(@pink, 40%));
     color: @grayDark; 
     
     .rules {
-	position:absolute;
-	left:55%;
-	top:30px;
 	font-weight: lighter;
-	background-color: @gray;
+	background-color: @grayLight;
 	font-size: @baseFontSize;
 	line-height: @baseLineHeight;
 
