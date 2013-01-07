@@ -24,6 +24,22 @@
 }
 
 .hero-unit {
-    .gradient(@pink, @black);
+    .gradient(@pink, darken(@pink, 40%));
     color: @grayDark; 
+    
+    .rules {
+	font-weight: lighter;
+	background-color: @grayLight;
+	font-size: @baseFontSize;
+	line-height: @baseLineHeight;
+
+	h1 {
+	    font-size: @fontSizeLarge;
+	}
+	img {
+	    float: left;
+	    margin: 0.5em;
+	}
+    }
 }
+
