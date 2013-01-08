@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-08 dags för en logga
+--------------------------------
+Det börjar dra ihop sig för att skapa en logotyp. Jag hann skissa på en start idag. Det känns som om det kommer att ta ett par dagar att bli nöjd.
+
 2013-01-07 Glad mun för kul
 --------------------------------
 Jag ritade en bild för att symbolisera "hellre kul än bra". Bilden blev passande nog mer kul än bra.
