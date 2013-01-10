@@ -1,5 +1,14 @@
 Log
 ==========
+2013-01-09 Mera logga
+--------------------------------
+Gårdagens grova logoskiss fick ett blandat mottagande. Det rådde någorlunda koncensus om att den var odemokratisk, kanske tom fascistisk. Tom min fru tyckte att det nog skulle kunna vara en bra logotyp för Sverigedemokraterna.
+Jag hoppas att det inte är mitt undermedvetna som talar till mig och att jag går omkring och är både fascist och rasist i mitt undermedvetna. Så i ett försök att släta över mina tveksamma böjelser från gårdagen har jag mjukat upp skissen en smula. Jag tänkte lite "barn är mjuka, fascister är hårda" lixom.
+
+2013-01-08 Dags för en logga
+--------------------------------
+Det börjar dra ihop sig för att skapa en logotyp. Jag hann skissa på en start idag. Det känns som om det kommer att ta ett par dagar att bli nöjd.
+
 2013-01-07 Glad mun för kul
 --------------------------------
 Jag ritade en bild för att symbolisera "hellre kul än bra". Bilden blev passande nog mer kul än bra.
