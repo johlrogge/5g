@@ -1,4 +1,5 @@
 @import "../less/variables.less";
+@import "../modules/bootstrap/less/mixins.less";
 
 .gradient (@from, @to) {
     background-from: @from;
@@ -26,10 +27,11 @@
 .hero-unit {
     .gradient(@pink, darken(@pink, 40%));
     color: @grayDark; 
-    
+
     .rules {
+	.border-radius(6px);
 	font-weight: lighter;
-	background-color: @grayLight;
+	background-color: fade(@white, 65%);
 	font-size: @baseFontSize;
 	line-height: @baseLineHeight;
 

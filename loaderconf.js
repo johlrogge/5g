@@ -11,6 +11,7 @@ curl = {
 	'bootstrap/css': '../modules/bootstrap/docs/assets/css',
 	'bootstrap/less': '../modules/bootstrap/less',
 	'bootstrap/less/variables.less': '../less/variables.less',
+	'bootstrap/less/type.less': '../less/type.less',
 	'less': '../modules/less.js/dist/less-1.3.3.js',
 	'style': '../less'
     },
@@ -31,14 +32,13 @@ curl = {
 	    'location':'../modules/papyrus',
 	    'main':'papyrus-md'
 	},
-
 	'phloem': {
 	    'location':'../modules/phloem',
             'main':'phloem'
         },
         'twig': {
             'path':'../modules/twig',
-            'main':'twig',
+            'main':'twig'
         },
         'foliage' : {
             'location':'../modules/foliage',

@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-10 Fonter
+--------------------------------
+Jag testade att ändra lite typsnitt. Mest för att bara se hur man gör men såklart inte helt planlöst. Jag får ge mig själv i läxa att läsa på lite om typografi för att det här ska bli bra.
+
 2013-01-09 Mera logga
 --------------------------------
 Gårdagens grova logoskiss fick ett blandat mottagande. Det rådde någorlunda koncensus om att den var odemokratisk, kanske tom fascistisk. Tom min fru tyckte att det nog skulle kunna vara en bra logotyp för Sverigedemokraterna.
