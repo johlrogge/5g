@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-11 Navigation
+--------------------------------
+Det börjar bli dags att utöka antalet sidor på sajten. Idag lade jag till en navigering av den anledningen. Än så länge i vaniljsmak.
+
 2013-01-10 Fonter
 --------------------------------
 Jag testade att ändra lite typsnitt. Mest för att bara se hur man gör men såklart inte helt planlöst. Jag får ge mig själv i läxa att läsa på lite om typografi för att det här ska bli bra.
