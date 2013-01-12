@@ -5,6 +5,9 @@ define(['foliage',
 	'require'],
        function(f, on, twig, _, require) {
 
+	   var row = function (children) {
+	       return f.div({'class': 'row'}, children);
+	   };
 
 	   var navbar = function() {
 	       return f.div({'class': 'navbar'},
@@ -23,7 +26,8 @@ define(['foliage',
 	   };
 	   
 	   return {
-	       navbar: navbar
+	       navbar: navbar,
+	       row: row
 	   }
 	   
        });

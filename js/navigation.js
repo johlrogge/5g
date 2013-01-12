@@ -3,7 +3,7 @@ define(['foliage/bootstrap'],
 	   return fbs.navbar(
 	       fbs.navbar.brand('Title'),
 	       fbs.navbar.items(
-		   {name: 'Home', location:'index'}
-
+		   {name: 'Hem', location:'index'},
+		   {name: 'Mer inspiration', location:'links'}
 	       ));
        });
