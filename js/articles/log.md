@@ -1,5 +1,13 @@
 Log
 ==========
+2013-01-12 Inspiration layout
+--------------------------------
+Stylande av inspirationssidan.
+
+2013-01-12 Inspiration
+--------------------------------
+Länkar till sidor som inspirerar och inspireras
+
 2013-01-11 Navigation
 --------------------------------
 Det börjar bli dags att utöka antalet sidor på sajten. Idag lade jag till en navigering av den anledningen. Än så länge i vaniljsmak.
