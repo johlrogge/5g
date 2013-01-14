@@ -1,6 +1,6 @@
 Log
 ==========
-2013-01-12 Inspiration layout
+2013-01-13 Inspiration layout
 --------------------------------
 Stylande av inspirationssidan.
 
