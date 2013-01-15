@@ -1,9 +1,11 @@
 define(['foliage',
 	'hero-unit',
-	'navigation'],
-       function(f, heroUnit, navigation) {
+	'navigation',
+        'header/header'],
+       function(f, heroUnit, navigation, header) {
 	   return function(content) {
 	       return f.all(
+		   header,
 		   navigation,
 		   f.div({'class': 'container'},
 			 heroUnit,

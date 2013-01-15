@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-14 Dela upp herounit i header och hero-unit
+---------------------------------------------------
+Idag började arbetet att vara snällare måt små skärmar. För tillfället är jag styggare än någonsin men planen är god :)
+
 2013-01-13 Inspiration layout
 --------------------------------
 Stylande av inspirationssidan.
