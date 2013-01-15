@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-15 Minska höjden på headern och fäst menyn automatiskt
+--------------------------------------------------------------
+Headern är nu lite mer sansad höjdledes och menyn fäster dynamiskt vid scroll. Menyn skulle gärna få lossna dynamiskt också och behålla bredden även när den fäster. Det går åt rätt håll i vilket fall...
+
 2013-01-14 Dela upp herounit i header och hero-unit
 ---------------------------------------------------
 Idag började arbetet att vara snällare måt små skärmar. För tillfället är jag styggare än någonsin men planen är god :)
