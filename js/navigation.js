@@ -6,11 +6,12 @@ define(['foliage/bootstrap', 'jquery'],
            }
 
 	   return fbs.navbar(
-	       function(menu) {
+	       function(parent) {
+		   var init;
 		   var docked = false;
-		   var init = menu.offset().top;
 		   $(window).scroll(function() {
-		       
+		       var menu = parent.parent();
+		       init = init || parent.offset().top;
 		       console.log("menu: ", menu);
 		       console.log("menu.offset().top: ", menu.offset().top);
 		       if (!docked && (menu.offset().top - scrollTop() < 0)) {
@@ -18,7 +19,7 @@ define(['foliage/bootstrap', 'jquery'],
 			   menu.css('position', 'fixed'); 
 			   docked = true;
 		       } else if (docked && scrollTop() <= init) { 
-			   menu.css('top', init+'px');
+			   menu.css('top', init + 'px');
 			   menu.css('position', 'absolute'); 
 			   docked = false;  
 		       }
