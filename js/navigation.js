@@ -12,15 +12,15 @@ define(['foliage/bootstrap', 'jquery'],
 		   $(window).scroll(function() {
 		       var menu = parent.parent();
 		       init = init || parent.offset().top;
-		       console.log("menu: ", menu);
-		       console.log("menu.offset().top: ", menu.offset().top);
 		       if (!docked && (menu.offset().top - scrollTop() < 0)) {
 			   menu.css('top', 0);
 			   menu.css('position', 'fixed'); 
+			   menu.css('width', '100%');
 			   docked = true;
 		       } else if (docked && scrollTop() <= init) { 
 			   menu.css('top', init + 'px');
 			   menu.css('position', 'absolute'); 
+			   menu.css('width', '100%');
 			   docked = false;  
 		       }
 		   });
