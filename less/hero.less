@@ -2,24 +2,24 @@
 @import "../modules/bootstrap/less/mixins.less";
 @import "../less/gradients.less";
 
-.hero-unit {
-    .gradient(@pink, darken(@pink, 40%));
-    color: @grayDark; 
 
-    .rules {
-	.border-radius(6px);
-	font-weight: lighter;
-	background-color: fade(@white, 65%);
-	font-size: @baseFontSize;
-	line-height: @baseLineHeight;
 
-	h1 {
-	    font-size: @fontSizeLarge;
-	}
-	img {
-	    float: left;
-	    margin: 0.5em;
-	}
+.rules {
+    .gradient(lighten(@pink, 35%), darken(@pink, 5%));
+    color: darken(@grayDark, 20%); 
+    .border-radius(6px);
+    font-weight: lighter;
+    background-color: fade(@white, 65%);
+    font-size: @baseFontSize;
+    line-height: @baseLineHeight;
+
+    h1 {
+	font-size: @fontSizeLarge;
+    }
+    img {
+	float: left;
+	margin: 0.5em;
     }
 }
+
 

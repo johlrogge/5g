@@ -13,14 +13,10 @@ define(['foliage/bootstrap', 'jquery'],
 		       var menu = parent.parent();
 		       init = init || parent.offset().top;
 		       if (!docked && (menu.offset().top - scrollTop() < 0)) {
-			   menu.css('top', 0);
-			   menu.css('position', 'fixed'); 
-			   menu.css('width', '100%');
+			   menu.addClass('navbar-fixed-top');
 			   docked = true;
 		       } else if (docked && scrollTop() <= init) { 
-			   menu.css('top', init + 'px');
-			   menu.css('position', 'absolute'); 
-			   menu.css('width', '100%');
+			   menu.removeClass('navbar-fixed-top');
 			   docked = false;  
 		       }
 		   });
