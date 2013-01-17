@@ -28,3 +28,6 @@
 [submodule "modules/less.js"]
 	path = modules/less.js
 	url = git://github.com/cloudhead/less.js.git
+[submodule "modules/phloem"]
+	path = modules/phloem
+	url = git://github.com/herbalism/phloem.git
