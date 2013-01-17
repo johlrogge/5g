@@ -1,5 +1,10 @@
 Log
 ==========
+2013-01-17 Förenklat hjälteenheten
+--------------------------------------------------------------
+Hjälteenheten är nu ingen hjälteenhet utan bara en rosa regelruta.
+Navigeringen hoppar tillbaka utan överlapp när man skrollar tillbaka.
+
 2013-01-16 Menyn fäster även på vägen ner
 --------------------------------------------------------------
 Nu fäster menyn även när man scrollar nedåt. Vackert så. Det kan fortfarande finslipas lite på att återställa menyn exakt men jag är hyfsat nöjd såhär långt. Dags att rita något igen tycker jag.
