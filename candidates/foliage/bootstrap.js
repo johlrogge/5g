@@ -10,7 +10,7 @@ define(['foliage',
 	   };
 
 	   var navbar = function() {
-	       return f.div({'class': 'navbar'},
+	       return f.div({'class': 'navbar navbar-inverse'},
 			    f.div({'class': 'navbar-inner'},
 				  _.toArray(arguments)))};
 

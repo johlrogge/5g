@@ -1,6 +1,30 @@
-define(['foliage/bootstrap'],
-       function(fbs){
+define(['foliage/bootstrap', 'jquery'],
+       function(fbs, $){
+	   var docked = false;
+	   function scrollTop() {
+               return document.body.scrollTop || document.documentElement.scrollTop;
+           }
+
 	   return fbs.navbar(
+	       function(parent) {
+		   var init;
+		   var docked = false;
+		   $(window).scroll(function() {
+		       var menu = parent.parent();
+		       init = init || parent.offset().top;
+		       if (!docked && (menu.offset().top - scrollTop() < 0)) {
+			   menu.css('top', 0);
+			   menu.css('position', 'fixed'); 
+			   menu.css('width', '100%');
+			   docked = true;
+		       } else if (docked && scrollTop() <= init) { 
+			   menu.css('top', init + 'px');
+			   menu.css('position', 'absolute'); 
+			   menu.css('width', '100%');
+			   docked = false;  
+		       }
+		   });
+	       },
 	       fbs.navbar.brand('Title'),
 	       fbs.navbar.items(
 		   {name: 'Hem', location:'index'},
