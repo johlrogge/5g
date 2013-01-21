@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-20 Bakgrundsbild och zenburn
+--------------------------------------------------------------
+Jag lade på ett lager berg bakom huset och sedan började jag fixa till färgerna på hemsidan. Jag tänkte att jag skulle välja ett färgschema inspirerat av det klasiska [zenburnschemat](http://slinky.imukuppi.org/zenburnpage/) för Vim.
+
 2013-01-20 Sidhuvudsbild
 --------------------------------------------------------------
 Den här gången passade det ju att ta tag i en lite större uppgift så jag jobbade på att få till ett stämningsfullt sidhuvud.
