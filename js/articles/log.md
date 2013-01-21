@@ -1,5 +1,11 @@
 Log
 ==========
+2013-01-20 Sidhuvudsbild
+--------------------------------------------------------------
+Den här gången passade det ju att ta tag i en lite större uppgift så jag jobbade på att få till ett stämningsfullt sidhuvud.
+Jag börjar känna mig ganska bekväm i inkscape nu och tycker att jag fick till skuggan från huset ganska fint (visst, givet att marken är helt platt men det kan filas lite på). Min tanke är att varje sida ska få ett eget huvud som representerar innehållet på något sätt. Det huvud som finns på alla sidor nu är tänkt att representera "hem".
+Huvudet är inte klart, jag tänker mig att rita flera skikt bakåt för att skapa lite djup men som ett första försök tycker jag inte att det är så illa pinkat för att vara mig.
+
 2013-01-17 Förenklat hjälteenheten
 --------------------------------------------------------------
 Hjälteenheten är nu ingen hjälteenhet utan bara en rosa regelruta.
