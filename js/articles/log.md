@@ -1,6 +1,12 @@
 Log
 ==========
-2013-01-20 Bakgrundsbild och zenburn
+2013-01-22 mer zenburn
+--------------------------------------------------------------
+Jag är mindre och mindre nöjd med bakgrundsbergen i bilden men jag struntade i det idag. Jag måste fundera vad jag ska göra it det. Istället ändrade jag bakgrundsfärger och textfärger till lite mer zenburnfärger. Zenburn är gjort för Vim och tanken är att det lågkontrastfärgschemat ska vara vilsamt för ögonen så att man kan koda många timmar i sträck.
+
+Det spelar ju viss roll hur man blandar färgerna. Just nu är det _försiktigt färgglatt_ i syfte att få en känsla för färgschemat. Texten känns helt klart behagligare att läsa tycker jag men jag lutar åt att rubrikerna ska ha samma färg som texten.
+
+2013-01-21 Bakgrundsbild och zenburn
 --------------------------------------------------------------
 Jag lade på ett lager berg bakom huset och sedan började jag fixa till färgerna på hemsidan. Jag tänkte att jag skulle välja ett färgschema inspirerat av det klasiska [zenburnschemat](http://slinky.imukuppi.org/zenburnpage/) för Vim.
 
