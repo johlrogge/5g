@@ -12,8 +12,11 @@ define(['foliage',
 		links) {
 	   return template(
 	       fbs.row(
-		   [f.div({'class': 'span6'}, intro),
-		   f.div({'id': 'links', 'class': 'span6'}, links)]
+		   [
+		       f.div({'class': 'span6'}, intro),
+		       f.div({'id': 'links', 'class': 'span6'}, links),
+		       f.img({src: 'images/inspiration.svg'})
+		   ]
 	       ));
 	   
 });

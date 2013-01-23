@@ -1,5 +1,13 @@
 Log
 ==========
+2013-01-23 inspirationshuvud
+--------------------------------------------------------------
+Jag började rita ett sidhuvud för inspirationssidan. Det är förvånansvärt svårt att inspireras till att försöka illustrera inspiration. I brist på annat fick det bli en plain old djävla soluppgång över hav. Det finns väl inte någon konstnär som _inte_ inspirerats av varesig sol eller hav?
+
+Den går att hitta på [inspirationssidan, längst ner](#links).
+
+Imorgon kommer jag antagligen börja med att limma in den i huvudet på ovan nämnda sida.
+
 2013-01-22 mer zenburn
 --------------------------------------------------------------
 Jag är mindre och mindre nöjd med bakgrundsbergen i bilden men jag struntade i det idag. Jag måste fundera vad jag ska göra it det. Istället ändrade jag bakgrundsfärger och textfärger till lite mer zenburnfärger. Zenburn är gjort för Vim och tanken är att det lågkontrastfärgschemat ska vara vilsamt för ögonen så att man kan koda många timmar i sträck.
