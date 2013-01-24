@@ -2,9 +2,9 @@ define(['foliage',
 	'navigation',
         'header/header'],
        function(f, navigation, header) {
-	   return function(content) {
+	   return function(location, content) {
 	       return f.all(
-		   header,
+		   header(location),
 		   navigation,
 		   f.div({'class': 'container'},
 			 content));

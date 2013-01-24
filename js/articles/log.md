@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-24 inspirationshuvud
+--------------------------------------------------------------
+Olika huvuden på olika sidor. Krångligare än jag räknade med men nu funkar det. Jag har lite bekymmer med att få inspirationshuvudet att klipas till rätt storlek. Det blir lite googlande om inkscape tror jag tills imorgon.
+
 2013-01-23 inspirationshuvud
 --------------------------------------------------------------
 Jag började rita ett sidhuvud för inspirationssidan. Det är förvånansvärt svårt att inspireras till att försöka illustrera inspiration. I brist på annat fick det bli en plain old djävla soluppgång över hav. Det finns väl inte någon konstnär som _inte_ inspirerats av varesig sol eller hav?
