@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-25 vatten med filter
+--------------------------------------------------------------
+Jag försökte tämja inkscapes turbulencefilter. Det ser onekligen ut som man närmar sig en vatten effekt på det här sättet men elementen låter sig inte tämjas i första taget.
+
 2013-01-24 inspirationshuvud
 --------------------------------------------------------------
 Olika huvuden på olika sidor. Krångligare än jag räknade med men nu funkar det. Jag har lite bekymmer med att få inspirationshuvudet att klipas till rätt storlek. Det blir lite googlande om inkscape tror jag tills imorgon.
