@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-26 himlen bredare och mindre fyrkantig
+--------------------------------------------------
+Jag fixade till paletten och lade på ett litet blänk på solen. Ska se om jag inte kan få till en snyggare förgrund imorgon...
+
 2013-01-25 vatten med filter
 --------------------------------------------------------------
 Jag försökte tämja inkscapes turbulencefilter. Det ser onekligen ut som man närmar sig en vatten effekt på det här sättet men elementen låter sig inte tämjas i första taget.
