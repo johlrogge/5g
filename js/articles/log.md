@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-27 himlen bredare och mindre fyrkantig
+--------------------------------------------------
+Grenar och blad i siluett på inspirationssidan. Inte heeelt illa tycker jag själv.p
+
 2013-01-26 himlen bredare och mindre fyrkantig
 --------------------------------------------------
 Jag fixade till paletten och lade på ett litet blänk på solen. Ska se om jag inte kan få till en snyggare förgrund imorgon...
