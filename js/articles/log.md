@@ -1,8 +1,17 @@
 Log
 ==========
-2013-01-27 himlen bredare och mindre fyrkantig
+2013-01-29 Redirect om någon kör IE
+-----------------------------------
+Jag har inte kunnat testa detta ännu men IE användare bör skickas [hit](no-ie-please.html)
+
+2013-01-28 vi gillar inte IE
 --------------------------------------------------
-Grenar och blad i siluett på inspirationssidan. Inte heeelt illa tycker jag själv.p
+Även om den här sajten bara ser bra ut i chrome för tillfället så kommer det att bli bättre i andra browsers. Förutom *en* browser. Denna styggelse till webläsare är upphov till otaliga timmar av undantagsprogrammering för miljontals utvecklare världen över. Ett estimat jag såg var att för att få en sajt att fungera bra i IE < 9 så krävs en insats på runt 35% (vissa säger så mycket som 50%) **extra tid**.
+Så får det såklart inte gå till! Jag måste förändra världen! Jag har börjat rita på en bild som ska få mina IE-besökare att tänka om omedelbums! Tanken är att den ska visas när någon surfar in med en äckelbrowser. Just nu får du istället klicka [här](images/wrongbrowser.svg)
+
+2013-01-27 grenar och blad. Känn dig inspirerad!
+--------------------------------------------------
+Grenar och blad i siluett på inspirationssidan. Inte heeelt illa tycker jag själv.
 
 2013-01-26 himlen bredare och mindre fyrkantig
 --------------------------------------------------
