@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-30 Dags att starta egotrippen
+--------------------------------------
+Dags för självporträtt. Jag kalkerar ett foto i inkscape. Ja, det finns trace contours etc men hur kul är det? Samtidigt är det skönt att ha en mall att gå efter utan att nödvändigtvis behöva följa den till punkt och pricka. [här är det](images/portrait.svg)
+
 2013-01-29 Redirect om någon kör IE
 -----------------------------------
 Jag har inte kunnat testa detta ännu men IE användare bör skickas [hit](no-ie-please.html)
