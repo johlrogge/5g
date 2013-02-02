@@ -1,5 +1,9 @@
 Log
 ==========
+2013-01-31 Skuggor och ögonvita
+--------------------------------------
+Jag fortsatte på [självporträttet](images/portrait.svg). Skuggor, ögonvitor etc. Det är fanken svårt. Inser att jag inte har en susning om hur jag ska få till skuggorna med SVG men det är ju för att lära mig som jag pysslar med det här. Långsam progress föröver!
+
 2013-01-30 Dags att starta egotrippen
 --------------------------------------
 Dags för självporträtt. Jag kalkerar ett foto i inkscape. Ja, det finns trace contours etc men hur kul är det? Samtidigt är det skönt att ha en mall att gå efter utan att nödvändigtvis behöva följa den till punkt och pricka. [här är det](images/portrait.svg)
