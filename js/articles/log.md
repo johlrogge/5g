@@ -1,5 +1,14 @@
 Log
 ==========
+2013-02-02 Hår och öra
+--------------------------------------
+[Självporträttet](images/portrait.svg) Jag kom på att jag kan fixa nackhåren och polisongerna med en enkel gradient mot transparent. Jag tycker att det blev rätt ok. Sedan gav jag mig på örat. Det största beviset på att gud inte finns är att ingen allsmäktig varelse med oändlig visdom skulle kunna komma på en så fullkomligt oefterliknerligt som ett öra. Det kan bara vara uppkomsten av en sjuk slump.
+Nåväl, så länge det går åt rätt håll är det bra tycker jag och det tycker jag att det gör.
+
+2013-02-01 Skuggor och ögonvita
+--------------------------------------
+[Självporträttet](images/portrait.svg) får lite högdagrar och ytterligare lite skuggor på plats. Färgerna är rätt så off men det blir nog bättre :)
+
 2013-01-31 Skuggor och ögonvita
 --------------------------------------
 Jag fortsatte på [självporträttet](images/portrait.svg). Skuggor, ögonvitor etc. Det är fanken svårt. Inser att jag inte har en susning om hur jag ska få till skuggorna med SVG men det är ju för att lära mig som jag pysslar med det här. Långsam progress föröver!
