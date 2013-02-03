@@ -1,5 +1,9 @@
 Log
 ==========
+2013-02-03 Om man inte kan beata rom så får man jojna rom!
+----------------------------------------------------------
+[Självporträttet](images/portrait.svg) verkar trots mina försök mest påminna om Elvis. Kanske är det så att jag är "under Elvis control". Om öron är ett bevis på att gud inte finns så börjar det här porträttet vara ett bevis på att Elvis finns...
+
 2013-02-02 Hår och öra
 --------------------------------------
 [Självporträttet](images/portrait.svg) Jag kom på att jag kan fixa nackhåren och polisongerna med en enkel gradient mot transparent. Jag tycker att det blev rätt ok. Sedan gav jag mig på örat. Det största beviset på att gud inte finns är att ingen allsmäktig varelse med oändlig visdom skulle kunna komma på en så fullkomligt oefterliknerligt som ett öra. Det kan bara vara uppkomsten av en sjuk slump.
