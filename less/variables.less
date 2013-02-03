@@ -9,36 +9,36 @@
 
 // Grays
 // -------------------------
-@black:                 #000;
-@grayDarker:            #222;
-@grayDark:              #333;
-@gray:                  #555;
-@grayLight:             #999;
-@grayLighter:           #eee;
-@white:                 #fff;
-
+@black:                 #1d1d1d;
+@grayDarker:            #2d2d2d;
+@grayDark:              #3d3d3d;
+@gray:                  #5d5d5d;
+@grayLight:             #9d9d9d;
+@grayLighter:           #eaeaea;
+@white:                 #efefef;
 
 // Accent colors
 // -------------------------
-@blue:                  #049cdb;
-@blueDark:              #0064cd;
-@green:                 #46a546;
-@red:                   #9d261d;
-@yellow:                #ffc40d;
+
+@blueDark:              #8cd0d3;
+@blue:                  lighten(@blueDark, 10%);
+@green:                 #9ece9e;
+@red:                   #e89393;
+@yellow:                #f0dfaf;
 @orange:                #f89406;
-@pink:                  #c3325f;
-@purple:                #7a43b6;
+@pink:                  #d1bec0;
+@purple:                #c0bed1;
 
 
 // Scaffolding
 // -------------------------
 @bodyBackground:        @black;
-@textColor:             @pink;
+@textColor:             @blue;
 
 
 // Links
 // -------------------------
-@linkColor:             #08c;
+@linkColor:             @yellow;
 @linkColorHover:        darken(@linkColor, 15%);
 
 
@@ -55,7 +55,7 @@
 
 @headingsFontFamily:    'Fredericka the Great', cursive; // empty to use BS default, @baseFontFamily
 @headingsFontWeight:    normal;    // instead of browser default, bold
-@headingsColor:         inherit; // empty to use BS default, @textColor
+@headingsColor:         @green; // empty to use BS default, @textColor
 
 
 // Component sizing

@@ -13,6 +13,7 @@ define(['foliage',
 
 
     return template(
+	'home',
 	f.all(
 	    heroUnit,
 	    fbs.row(f.all(f.div({'class': 'span6'}, intro), 

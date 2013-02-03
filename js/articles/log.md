@@ -1,5 +1,69 @@
 Log
 ==========
+2013-02-03 Om man inte kan beata rom så får man jojna rom!
+----------------------------------------------------------
+[Självporträttet](images/portrait.svg) verkar trots mina försök mest påminna om Elvis. Kanske är det så att jag är "under Elvis control". Om öron är ett bevis på att gud inte finns så börjar det här porträttet vara ett bevis på att Elvis finns...
+
+2013-02-02 Hår och öra
+--------------------------------------
+[Självporträttet](images/portrait.svg) Jag kom på att jag kan fixa nackhåren och polisongerna med en enkel gradient mot transparent. Jag tycker att det blev rätt ok. Sedan gav jag mig på örat. Det största beviset på att gud inte finns är att ingen allsmäktig varelse med oändlig visdom skulle kunna komma på en så fullkomligt oefterliknerligt som ett öra. Det kan bara vara uppkomsten av en sjuk slump.
+Nåväl, så länge det går åt rätt håll är det bra tycker jag och det tycker jag att det gör.
+
+2013-02-01 Skuggor och ögonvita
+--------------------------------------
+[Självporträttet](images/portrait.svg) får lite högdagrar och ytterligare lite skuggor på plats. Färgerna är rätt så off men det blir nog bättre :)
+
+2013-01-31 Skuggor och ögonvita
+--------------------------------------
+Jag fortsatte på [självporträttet](images/portrait.svg). Skuggor, ögonvitor etc. Det är fanken svårt. Inser att jag inte har en susning om hur jag ska få till skuggorna med SVG men det är ju för att lära mig som jag pysslar med det här. Långsam progress föröver!
+
+2013-01-30 Dags att starta egotrippen
+--------------------------------------
+Dags för självporträtt. Jag kalkerar ett foto i inkscape. Ja, det finns trace contours etc men hur kul är det? Samtidigt är det skönt att ha en mall att gå efter utan att nödvändigtvis behöva följa den till punkt och pricka. [här är det](images/portrait.svg)
+
+2013-01-29 Redirect om någon kör IE
+-----------------------------------
+Jag har inte kunnat testa detta ännu men IE användare bör skickas [hit](no-ie-please.html)
+
+2013-01-28 vi gillar inte IE
+--------------------------------------------------
+Även om den här sajten bara ser bra ut i chrome för tillfället så kommer det att bli bättre i andra browsers. Förutom *en* browser. Denna styggelse till webläsare är upphov till otaliga timmar av undantagsprogrammering för miljontals utvecklare världen över. Ett estimat jag såg var att för att få en sajt att fungera bra i IE < 9 så krävs en insats på runt 35% (vissa säger så mycket som 50%) **extra tid**.
+Så får det såklart inte gå till! Jag måste förändra världen! Jag har börjat rita på en bild som ska få mina IE-besökare att tänka om omedelbums! Tanken är att den ska visas när någon surfar in med en äckelbrowser. Just nu får du istället klicka [här](images/wrongbrowser.svg)
+
+2013-01-27 grenar och blad. Känn dig inspirerad!
+--------------------------------------------------
+Grenar och blad i siluett på inspirationssidan. Inte heeelt illa tycker jag själv.
+
+2013-01-26 himlen bredare och mindre fyrkantig
+--------------------------------------------------
+Jag fixade till paletten och lade på ett litet blänk på solen. Ska se om jag inte kan få till en snyggare förgrund imorgon...
+
+2013-01-25 vatten med filter
+--------------------------------------------------------------
+Jag försökte tämja inkscapes turbulencefilter. Det ser onekligen ut som man närmar sig en vatten effekt på det här sättet men elementen låter sig inte tämjas i första taget.
+
+2013-01-24 inspirationshuvud
+--------------------------------------------------------------
+Olika huvuden på olika sidor. Krångligare än jag räknade med men nu funkar det. Jag har lite bekymmer med att få inspirationshuvudet att klipas till rätt storlek. Det blir lite googlande om inkscape tror jag tills imorgon.
+
+2013-01-23 inspirationshuvud
+--------------------------------------------------------------
+Jag började rita ett sidhuvud för inspirationssidan. Det är förvånansvärt svårt att inspireras till att försöka illustrera inspiration. I brist på annat fick det bli en plain old djävla soluppgång över hav. Det finns väl inte någon konstnär som _inte_ inspirerats av varesig sol eller hav?
+
+Den går att hitta på [inspirationssidan, längst ner](#links).
+
+Imorgon kommer jag antagligen börja med att limma in den i huvudet på ovan nämnda sida.
+
+2013-01-22 mer zenburn
+--------------------------------------------------------------
+Jag är mindre och mindre nöjd med bakgrundsbergen i bilden men jag struntade i det idag. Jag måste fundera vad jag ska göra it det. Istället ändrade jag bakgrundsfärger och textfärger till lite mer zenburnfärger. Zenburn är gjort för Vim och tanken är att det lågkontrastfärgschemat ska vara vilsamt för ögonen så att man kan koda många timmar i sträck.
+
+Det spelar ju viss roll hur man blandar färgerna. Just nu är det _försiktigt färgglatt_ i syfte att få en känsla för färgschemat. Texten känns helt klart behagligare att läsa tycker jag men jag lutar åt att rubrikerna ska ha samma färg som texten.
+
+2013-01-21 Bakgrundsbild och zenburn
+--------------------------------------------------------------
+Jag lade på ett lager berg bakom huset och sedan började jag fixa till färgerna på hemsidan. Jag tänkte att jag skulle välja ett färgschema inspirerat av det klasiska [zenburnschemat](http://slinky.imukuppi.org/zenburnpage/) för Vim.
+
 2013-01-20 Sidhuvudsbild
 --------------------------------------------------------------
 Den här gången passade det ju att ta tag i en lite större uppgift så jag jobbade på att få till ett stämningsfullt sidhuvud.
