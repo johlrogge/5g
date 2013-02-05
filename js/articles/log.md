@@ -1,5 +1,9 @@
 Log
 ==========
+2013-02-05 Nu får det räcka
+----------------------------------------------------------
+[Självporträttet](images/portrait.svg) Känns ungefär så bra som jag är kapabel att göra det just nu. Jag vet inte hur jag lyckades få munnen att se ut sådär men jag kanske ser sådär hjärnslö ut?
+
 2013-02-03 Om man inte kan beata rom så får man jojna rom!
 ----------------------------------------------------------
 [Självporträttet](images/portrait.svg) verkar trots mina försök mest påminna om Elvis. Kanske är det så att jag är "under Elvis control". Om öron är ett bevis på att gud inte finns så börjar det här porträttet vara ett bevis på att Elvis finns...
