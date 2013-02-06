@@ -24,6 +24,7 @@ define(['foliage/bootstrap', 'jquery'],
 	       fbs.navbar.brand('Title'),
 	       fbs.navbar.items(
 		   {name: 'Hem', location:'index'},
+		   {name: 'Galleri', location:'gallery'},
 		   {name: 'Mer inspiration', location:'links'}
 	       ));
        });

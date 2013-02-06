@@ -1,5 +1,9 @@
 Log
 ==========
+2013-02-05 Galleri
+----------------------------------------------------------
+Jag har skapat ett [galleri](#gallery) för att mästerverken ska vara lättare att njuta av. Enklast möjliga idag.
+
 2013-02-05 Nu får det räcka
 ----------------------------------------------------------
 [Självporträttet](images/portrait.svg) Känns ungefär så bra som jag är kapabel att göra det just nu. Jag vet inte hur jag lyckades få munnen att se ut sådär men jag kanske ser sådär hjärnslö ut?
