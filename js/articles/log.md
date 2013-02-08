@@ -1,6 +1,10 @@
 Log
 ==========
-2013-02-05 Galleri
+2013-02-07 Karusell
+----------------------------------------------------------
+Galleriet fick en karusell. Häftigt men saknar lite navigation.
+
+2013-02-06 Galleri
 ----------------------------------------------------------
 Jag har skapat ett [galleri](#gallery) för att mästerverken ska vara lättare att njuta av. Enklast möjliga idag.
 
