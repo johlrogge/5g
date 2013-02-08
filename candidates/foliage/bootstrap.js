@@ -24,10 +24,46 @@ define(['foliage',
 		   return f.li(f.a({href: '#'+item.location}, item.name));
 	       }));
 	   };
+
+
+
+	   var directions = {
+	       left: {
+		   cls:'left',
+		   text: '&lsaquo;',
+		   slide: 'prev'
+	       },
+	       right: {
+		   cls: 'right',
+		   text: '&rsaquo;',
+		   slide: 'next'
+	       }
+	   };
+
+	   function carouselControl(direction, id) {
+	       var dir = directions[direction];
+	       return f.a({'class':'carousel-control', 
+			   href: '#'+id,
+			   'data-slide':dir.slide}, f.addClass(dir.cls), dir.text);
+	   }
+
+	   var carousel = function (id, transition, items, options) {
+	       return f.div({'id':'carousel',  'class':'carousel'},
+			    f.addClass(transition),
+			    function(element) {
+				f.div({'class': 'carousel-inner'},
+				      items )(element);
+				element.carousel(options);
+			    },
+			    carouselControl('left', id),
+			    carouselControl('right', id)
+			   )
+	   }
 	   
 	   return {
 	       navbar: navbar,
-	       row: row
+	       row: row,
+	       carousel: carousel
 	   }
 	   
        });

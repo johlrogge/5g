@@ -25,7 +25,7 @@ define(['foliage',
 	   })
 	   
 	   console.log(carouselItems);
-	   
+
 	   return template(
 	       'gallery',
 	       [
@@ -33,12 +33,7 @@ define(['foliage',
 		       f.div({'class': 'span12'}, intro)
 		   ),
 		   fbs.row(
-		       f.div({'class':'carousel slide'},
-			     function(element) {
-				 f.div({'class': 'carousel-inner'},
-				       carouselItems )(element);
-				 element.carousel({interval:2000});
-			     })
+		       fbs.carousel('carousel', 'slide', carouselItems)
 		   )
 	       ]
 	   );

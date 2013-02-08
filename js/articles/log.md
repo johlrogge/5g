@@ -1,5 +1,9 @@
 Log
 ==========
+2013-02-08 Kontroller till karusellen
+----------------------------------------------------------
+Nu har karusellen fina kontroller som gör att man kan navigera vänster och höger i den. Det vore najs om höjden vore konstant i karusellen men en sak i taget :)
+
 2013-02-07 Karusell
 ----------------------------------------------------------
 Galleriet fick en karusell. Häftigt men saknar lite navigation.
