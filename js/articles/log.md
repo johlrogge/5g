@@ -2,6 +2,11 @@ Log
 ==========
 2013-02-08 Kontroller till karusellen
 ----------------------------------------------------------
+Karusellen har fått fina bootstrap 2.3 indikatorer om vilken bild man är på.
+Höjden är mer automatisk och bilderna centreras vilket gör att kontrollerna ligger kvar på samma ställe.
+
+2013-02-08 Kontroller till karusellen
+----------------------------------------------------------
 Nu har karusellen fina kontroller som gör att man kan navigera vänster och höger i den. Det vore najs om höjden vore konstant i karusellen men en sak i taget :)
 
 2013-02-07 Karusell

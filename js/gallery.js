@@ -16,8 +16,7 @@ define(['foliage',
 	   console.log(images.AST);
 	   
 	   var makeItem = function(item) {
-
-	       return f.div({'class':'item'}, images.toFoliage(item[1]));
+	       return {image: images.toFoliage(item[1])};
 	   };
 
 	   var carouselItems = _.map(images.AST, function(element) {

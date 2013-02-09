@@ -48,11 +48,21 @@ define(['foliage',
 	   }
 
 	   var carousel = function (id, transition, items, options) {
-	       return f.div({'id':'carousel',  'class':'carousel'},
+               console.log();
+	       return f.div({'id':id,  'class':'carousel'},
 			    f.addClass(transition),
+                            f.ol(
+                                {'class':'carousel-indicators'},
+                                _.map(items, function(item, index) {
+                                    return f.li({'data-target': ('#'+id),
+                                                 'data-slide-to': ''+index});
+                                })
+                            ),
 			    function(element) {
 				f.div({'class': 'carousel-inner'},
-				      items )(element);
+				      _.map(items, function(image){
+                                          return f.div({'class':'item'}, image.image)}))
+                                (element);
 				element.carousel(options);
 			    },
 			    carouselControl('left', id),
