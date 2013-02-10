@@ -1,6 +1,10 @@
 Log
 ==========
-2013-02-08 Kontroller till karusellen
+2013-02-10 Texter till bilderna
+----------------------------------------------------------
+Bilderna har fått beskrivande texter. Finfint.
+
+2013-02-09 Finlir med karusellen
 ----------------------------------------------------------
 Karusellen har fått fina bootstrap 2.3 indikatorer om vilken bild man är på.
 Höjden är mer automatisk och bilderna centreras vilket gör att kontrollerna ligger kvar på samma ställe.

@@ -55,13 +55,19 @@ define(['foliage',
                                 {'class':'carousel-indicators'},
                                 _.map(items, function(item, index) {
                                     return f.li({'data-target': ('#'+id),
-                                                 'data-slide-to': ''+index});
+                                                 'data-slide-to': ''+index},
+                                                index === 0 ? f.addClass('active') : undefined);
                                 })
                             ),
 			    function(element) {
 				f.div({'class': 'carousel-inner'},
-				      _.map(items, function(image){
-                                          return f.div({'class':'item'}, image.image)}))
+				      _.map(items, function(image, index){
+                                          return f.div({'class':'item'}, 
+                                                       index == 0  ? f.addClass('active') : undefined,
+                                                       image.image,
+                                                       f.div({'class':'carousel-caption'},
+                                                             image.caption
+                                                            ))}))
                                 (element);
 				element.carousel(options);
 			    },

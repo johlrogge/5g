@@ -13,18 +13,18 @@ define(['foliage',
 		intro,
 	        images) {
 	   
-	   console.log(images.AST);
-	   
 	   var makeItem = function(item) {
-	       return {image: images.toFoliage(item[1])};
+               console.log("make item", item);
+	       return {
+                   image: images.toFoliage(item[1][1]),
+                   caption: images.toFoliage(item[2])
+               };
 	   };
 
-	   var carouselItems = _.map(images.AST, function(element) {
+	   var carouselItems = _(images.AST[1]).filter(_.isArray).map(function(element) {
 	       return _.isArray(element) ? makeItem(element) : "";
-	   })
+	   }).valueOf();
 	   
-	   console.log(carouselItems);
-
 	   return template(
 	       'gallery',
 	       [
