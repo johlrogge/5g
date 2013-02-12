@@ -1,22 +1,39 @@
 define(['foliage',
+        'foliage/foliage-event',
         'template',
 	'lodash',
 	'foliage/bootstrap',
 	'md!gallery/introduction.md',
 	'md!gallery/images.md',
+        'lightbox',
 	'blossom!gallery/style.less'
        ],
        function(f,
+                on,
 		template, 
 		_,
 		fbs,
 		intro,
-	        images) {
+	        images,
+                lightbox) {
 	   
+
+           var makeImage = function(spec) {
+               var image = {src: spec.href, alt:spec.alt};
+               var lightBox = lightbox(f.img({src: spec.href, alt:spec.alt}));
+               return f.all(
+                   lightBox,
+                   function(parent) {
+                       return f.img(image, on.click(function(){
+                           $(parent, '.lightbox').lightbox();
+                       }))(parent)
+                   }
+               )
+           }
+
 	   var makeItem = function(item) {
-               console.log("make item", item);
 	       return {
-                   image: images.toFoliage(item[1][1]),
+                   image: makeImage(item[1][1][1]),
                    caption: images.toFoliage(item[2])
                };
 	   };

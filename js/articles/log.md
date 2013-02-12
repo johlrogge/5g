@@ -1,5 +1,9 @@
 Log
 ==========
+2013-02-12
+----------------------------------------------------------
+Igår och idag lyckades jag krånga fram en lightbox plugin. Den funkar inte... ännu... men när man klickar på en bild i karusellen så händer det i varje fall något :)
+
 2013-02-10 Texter till bilderna
 ----------------------------------------------------------
 Bilderna har fått beskrivande texter. Finfint.
