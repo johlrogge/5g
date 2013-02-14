@@ -20,15 +20,13 @@ define(['foliage',
 
            var makeImage = function(spec) {
                var image = {src: spec.href, alt:spec.alt};
-               var lightBox = lightbox(f.img({src: spec.href, alt:spec.alt}));
-               return f.all(
-                   lightBox,
-                   function(parent) {
-                       return f.img(image, on.click(function(){
-                           $(parent, '.lightbox').lightbox();
-                       }))(parent)
-                   }
-               )
+               return function(parent) {
+                   var lightBox = lightbox(f.img({src: spec.href, alt:spec.alt}))(parent);
+                   return f.img(image, on.click(function(){
+                       lightBox.show();
+                   }))(parent)
+               }
+
            }
 
 	   var makeItem = function(item) {
