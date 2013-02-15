@@ -76,10 +76,23 @@ define(['foliage',
 			   )
 	   }
 	   
+
+
+           var thumbnails = function(items, span) {
+               return f.ul({'class': 'thumbnails'},
+                           _.map(items, function(item) {
+                               return f.li({'class':span||'span4'},
+                                           f.div({href:'#', 'class':'thumnail'},
+                                                 item))})
+                          )
+           }
+
+
 	   return {
 	       navbar: navbar,
 	       row: row,
-	       carousel: carousel
+	       carousel: carousel,
+               thumbnails: thumbnails
 	   }
 	   
        });

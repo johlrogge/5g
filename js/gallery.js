@@ -26,7 +26,6 @@ define(['foliage',
                        lightBox.show();
                    }))(parent)
                }
-
            }
 
 	   var makeItem = function(item) {
@@ -36,7 +35,7 @@ define(['foliage',
                };
 	   };
 
-	   var carouselItems = _(images.AST[1]).filter(_.isArray).map(function(element) {
+	   var imageItems = _(images.AST[1]).filter(_.isArray).map(function(element) {
 	       return _.isArray(element) ? makeItem(element) : "";
 	   }).valueOf();
 	   
@@ -47,7 +46,8 @@ define(['foliage',
 		       f.div({'class': 'span12'}, intro)
 		   ),
 		   fbs.row(
-		       fbs.carousel('carousel', 'slide', carouselItems)
+                       fbs.thumbnails(_.pluck(imageItems, 'image'))
+//		       fbs.carousel('carousel', 'slide', carouselItems)
 		   )
 	       ]
 	   );

@@ -1,8 +1,20 @@
 Log
 ==========
-2013-02-12
+2013-02-14 Tumnagelgalleri
 ----------------------------------------------------------
-Igår och idag lyckades jag krånga fram en lightbox plugin. Den funkar inte... ännu... men när man klickar på en bild i karusellen så händer det i varje fall något :)
+Slängde ut karusellen och lade in tumnaglar istället. Imorgon ska jag se till att alla tumnaglar får samma höjd och kanske börja fila till huvudet en smula i galleriet.
+
+2013-02-14 lightboxen  funkar något sånär
+----------------------------------------------------------
+Planen framåt: 
+
+ * visa en översikt med tumnaglar
+ * klick på tumnagel öppnar lightbox
+ * karusellen i lightboxen för att bläddra mellan bilderna
+
+2013-02-12 lightbox
+----------------------------------------------------------
+Igår och idag lyckades jag krångla fram en lightbox plugin. Den funkar inte... ännu... men när man klickar på en bild i karusellen så händer det i varje fall något :)
 
 2013-02-10 Texter till bilderna
 ----------------------------------------------------------
