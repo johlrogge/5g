@@ -31,3 +31,6 @@
 [submodule "modules/phloem"]
 	path = modules/phloem
 	url = git://github.com/herbalism/phloem.git
+[submodule "modules/bootstrap-lightbox"]
+	path = modules/bootstrap-lightbox
+	url = git://github.com/jbutz/bootstrap-lightbox.git

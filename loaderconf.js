@@ -17,6 +17,10 @@ curl = {
 	'style': '../less'
     },
     packages: {
+        'bootstrap-lb': {
+            'location':'../modules/bootstrap-lightbox',
+            'main':'js/bootstrap-lightbox'
+        },
 	'lodash': {
 	    'location':'../modules/lodash',
 	    'main':'lodash'

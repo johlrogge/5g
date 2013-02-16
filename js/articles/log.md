@@ -1,5 +1,46 @@
 Log
 ==========
+2013-02-15 Pillat med storleken på tumnaglarna
+----------------------------------------------------------
+Tumnaglarna är nu någorlunda kvadratiska. Därmed känns galleriet tillräckligt bra för tillfället.
+
+2013-02-15 Tumnagelgalleri
+----------------------------------------------------------
+Slängde ut karusellen och lade in tumnaglar istället. Imorgon ska jag se till att alla tumnaglar får samma höjd och kanske börja fila till huvudet en smula i galleriet.
+
+2013-02-14 lightboxen  funkar något sånär
+----------------------------------------------------------
+Planen framåt: 
+
+ * visa en översikt med tumnaglar
+ * klick på tumnagel öppnar lightbox
+ * karusellen i lightboxen för att bläddra mellan bilderna
+
+2013-02-12 lightbox
+----------------------------------------------------------
+Igår och idag lyckades jag krångla fram en lightbox plugin. Den funkar inte... ännu... men när man klickar på en bild i karusellen så händer det i varje fall något :)
+
+2013-02-10 Texter till bilderna
+----------------------------------------------------------
+Bilderna har fått beskrivande texter. Finfint.
+
+2013-02-09 Finlir med karusellen
+----------------------------------------------------------
+Karusellen har fått fina bootstrap 2.3 indikatorer om vilken bild man är på.
+Höjden är mer automatisk och bilderna centreras vilket gör att kontrollerna ligger kvar på samma ställe.
+
+2013-02-08 Kontroller till karusellen
+----------------------------------------------------------
+Nu har karusellen fina kontroller som gör att man kan navigera vänster och höger i den. Det vore najs om höjden vore konstant i karusellen men en sak i taget :)
+
+2013-02-07 Karusell
+----------------------------------------------------------
+Galleriet fick en karusell. Häftigt men saknar lite navigation.
+
+2013-02-06 Galleri
+----------------------------------------------------------
+Jag har skapat ett [galleri](#gallery) för att mästerverken ska vara lättare att njuta av. Enklast möjliga idag.
+
 2013-02-05 Nu får det räcka
 ----------------------------------------------------------
 [Självporträttet](images/portrait.svg) Känns ungefär så bra som jag är kapabel att göra det just nu. Jag vet inte hur jag lyckades få munnen att se ut sådär men jag kanske ser sådär hjärnslö ut?
