@@ -82,9 +82,13 @@ define(['foliage',
                return f.ul({'class': 'thumbnails'},
                            _.map(items, function(item) {
                                return f.li({'class':span||'span4'},
-                                           f.div({href:'#', 'class':'thumnail'},
-                                                 item))})
-                          )
+                                           f.div({href:'#', 'class':'thumbnail'},
+                                                 item))}),
+                           function(parent) {
+                               console.log(parent);
+                               var thumbs = $('* .thumbnail', parent);
+                               _.each(thumbs, function(child) {$(child).height(300);});
+                           });
            }
 
 

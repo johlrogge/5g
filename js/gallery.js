@@ -47,7 +47,6 @@ define(['foliage',
 		   ),
 		   fbs.row(
                        fbs.thumbnails(_.pluck(imageItems, 'image'))
-//		       fbs.carousel('carousel', 'slide', carouselItems)
 		   )
 	       ]
 	   );

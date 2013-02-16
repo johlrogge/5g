@@ -1,6 +1,10 @@
 Log
 ==========
-2013-02-14 Tumnagelgalleri
+2013-02-15 Pillat med storleken på tumnaglarna
+----------------------------------------------------------
+Tumnaglarna är nu någorlunda kvadratiska. Därmed känns galleriet tillräckligt bra för tillfället.
+
+2013-02-15 Tumnagelgalleri
 ----------------------------------------------------------
 Slängde ut karusellen och lade in tumnaglar istället. Imorgon ska jag se till att alla tumnaglar får samma höjd och kanske börja fila till huvudet en smula i galleriet.
 
