@@ -18,3 +18,7 @@
  * ![Porträtt](a/../images/portrait.svg)
    
    Första svåra grejen blev ett proträtt av mig själv. Det blev rätt ok tycker jag.
+
+ * ![Tröjtryck](a/../images/sweater.svg)
+   
+   Jelena ska få en fin tröja i födelsedagspresent

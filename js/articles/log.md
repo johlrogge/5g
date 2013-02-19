@@ -1,6 +1,10 @@
 Log
 ==========
-2013-02-15 Pillat med storleken på tumnaglarna
+2013-02-19 Tröjtryck
+----------------------------------------------------------
+Aretet är påbörjat med ett tröjtryck till Jelena. Jelenas favorittröja är nämnligen utnött bortom räddning och jag tänkte ägna ett par dagar åt att försöka ersätta den. Idag blev det mest surfande efter modeller och pillande med typsnitt. Den är upplagd i galleriet dock. Typsnitten är inte konverterade till grafikobjekt inget typsnittspillande syns ännu :)
+
+2013-02-16 Pillat med storleken på tumnaglarna
 ----------------------------------------------------------
 Tumnaglarna är nu någorlunda kvadratiska. Därmed känns galleriet tillräckligt bra för tillfället.
 
