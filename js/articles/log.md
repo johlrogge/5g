@@ -1,5 +1,9 @@
 Log
 ==========
+2013-02-20 Tröjtryck 2
+-----------------------
+La till lite detaljer på tröjtrycket
+
 2013-02-19 Tröjtryck
 ----------------------------------------------------------
 Aretet är påbörjat med ett tröjtryck till Jelena. Jelenas favorittröja är nämnligen utnött bortom räddning och jag tänkte ägna ett par dagar åt att försöka ersätta den. Idag blev det mest surfande efter modeller och pillande med typsnitt. Den är upplagd i galleriet dock. Typsnitten är inte konverterade till grafikobjekt inget typsnittspillande syns ännu :)

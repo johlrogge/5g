@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1240.1575"
@@ -14,9 +15,38 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sweater.eps">
+   sodipodi:docname="sweater.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4159"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4148"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +54,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="770.59169"
+     inkscape:cy="116.88129"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,21 +75,64 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer">
+     inkscape:label="background"
+     style="display:inline">
     <rect
-       style="opacity:0.55744682999999995;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#f55df5;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect2998"
        width="1251.4286"
        height="1531.4286"
-       x="-5.7142859"
-       y="-2.0922153" />
+       x="-8.5714283"
+       y="-2.092216" />
+    <g
+       id="g4135"
+       transform="matrix(0.74242618,-0.66992788,0.66992788,0.74242618,-865.62444,475.00869)">
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4067"
+         d="m 252.88978,1271.2647 c 0,14.9905 -6.46192,20.0717 -20.66353,20.0717 -14.20161,0 -19.6657,-6.0913 -19.65336,-21.0819 0.0123,-14.9906 10.68365,-38.2545 19.65336,-38.2545 14.20161,0 20.66353,24.2741 20.66353,39.2647 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#f5f2f2;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.9000001;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4082"
+         d="m 247.92004,1353.6327 c 0,39.1168 -22.60569,12.4578 -38.9476,12.322 -12.42975,-0.1033 -38.94758,23.7644 -37.93744,-10.3017 0.83007,-27.9928 22.44602,-50.3544 37.93744,-51.718 16.20482,-1.4264 38.9476,21.6925 38.9476,49.6977 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#f5f2f2;stroke-width:0.74727291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.9000001;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#f5f2f2;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.9000001;stroke-opacity:1"
+         d="m 208.44307,1270.2545 c 0,14.9906 -6.46192,20.0718 -20.66353,20.0718 -14.20161,0 -19.6657,-6.0914 -19.65336,-21.0819 0.0123,-14.9906 10.68365,-38.2546 19.65336,-38.2546 14.20161,0 20.66353,24.2741 20.66353,39.2647 z"
+         id="path4119"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+      <path
+         inkscape:transform-center-y="11.111678"
+         inkscape:transform-center-x="7.0710678"
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4121"
+         d="m 173.17978,1302.6346 c 5.47539,13.9548 1.31587,21.0452 -11.90451,26.2324 -13.22039,5.1872 -20.53186,1.5125 -25.99573,-12.4468 -5.46394,-13.9593 -4.02718,-39.5137 4.32279,-42.79 13.22038,-5.1872 28.10206,15.0495 33.57745,29.0044 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#f5f2f2;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.9000001;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#f5f2f2;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.9000001;stroke-opacity:1"
+         d="m 287.23049,1314.4975 c -4.71833,14.2287 -12.45113,17.0177 -25.93093,12.5477 -13.47979,-4.47 -16.74888,-11.9716 -12.01884,-26.1964 4.72998,-14.2247 22.18135,-32.9475 30.69516,-30.1242 13.4798,4.4699 11.97294,29.5442 7.25461,43.7729 z"
+         id="path4123"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none"
+       d="m 1024.0144,1345.7439 c -5.1374,-4.5799 -17.5803,-22.7822 -16.6488,-16.3865 -11.77145,11.835 -23.36049,24.9537 -33.60577,37.3079 l -10e-6,0 c -11.99712,14.4298 -33.948,42.7096 -41.96476,59.4589 l -20,41.7856 3.57143,-33.2143 -28.22364,83.2123 56.31461,-69.344 -28.57142,22.5714 c 32.10435,-66.9092 52.60023,-87.5318 64.80043,-99.3117 l 10e-6,0 c 10.52428,-11.5097 26.97292,-18.5426 44.32792,-26.0796 z"
+       id="path4157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccscccccccc" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -82,14 +155,43 @@
     <text
        xml:space="preserve"
        style="font-size:244px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4 Bold'"
-       x="180"
-       y="832.36218"
        id="text2993"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="36.646637"
+       inkscape:transform-center-y="-68.852115"
+       transform="matrix(-0.93501905,0.35459748,-0.35459748,-0.93501905,671.36962,1549.2479)"><textPath
+         xlink:href="#path4126"
+         id="textPath4132"><tspan
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Indie Flower;-inkscape-font-specification:Indie Flower Bold"
+           id="tspan2995">approvzed-by-authoiatays-</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:none"
+       d="M 339.03703,830.30488 C 349.27358,900.63279 301.46516,965.74472 232.25394,975.73653 163.04273,985.72833 98.637612,936.81632 88.401068,866.4884 78.164543,796.1606 125.97297,731.04867 195.18418,721.05687 c 69.21121,-9.99181 133.61633,38.9202 143.85285,109.24801 z"
+       id="path4126"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Indie Flower;-inkscape-font-specification:Indie Flower"
+       id="text4142"
+       sodipodi:linespacing="125%"
+       y="835.83789"
+       x="885.58472"
+       transform="matrix(0.99997301,0.00734723,-0.00734723,0.99997301,0,0)"><tspan
          sodipodi:role="line"
-         id="tspan2995"
-         x="180"
-         y="832.36218"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Indie Flower;-inkscape-font-specification:Indie Flower Bold;font-size:72px;fill:#ffffff">approved</tspan></text>
+         id="tspan4144"
+         x="885.58472"
+         y="835.83789">Cats sit here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Indie Flower;-inkscape-font-specification:Indie Flower"
+       x="734.28571"
+       y="1323.6221"
+       id="text4162"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-471.26118)"><tspan
+         sodipodi:role="line"
+         id="tspan4164"
+         x="734.28571"
+         y="1323.6221" /></text>
   </g>
 </svg>
