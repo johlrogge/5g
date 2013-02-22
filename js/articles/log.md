@@ -1,5 +1,9 @@
 Log
 ==========
+2013-02-22 Tröjtryck 3
+-----------------------
+Idag var det pill, justeringar och tryckoriginal som gällde. Jag har mailat orginalet till en tryckare. Hoppas att det blir bra :)
+
 2013-02-20 Tröjtryck 2
 -----------------------
 La till lite detaljer på tröjtrycket
