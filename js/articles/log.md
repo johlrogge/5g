@@ -1,5 +1,12 @@
 Log
 ==========
+2013-02-23 Foliage grafik
+----------------------------------------------------------
+Jag håller på att arbeta med ett litet *unframework* som är det senaste och hetaste inom webutveckling. Det består av ett gäng små 
+bra att ha saker som fått namn efter växtriket. Jag tänkte illustrera dem och först ut är den komponent som är som mest färdig: `foliage`.
+Jag försökte mig på att rita ett lövverk i inkscape. Sannolikt ser det käck ut i allt utom chrome då jag använt filter för att skapa en effekt av 
+löv.
+
 2013-02-22 Tröjtryck 3
 -----------------------
 Idag var det pill, justeringar och tryckoriginal som gällde. Jag har mailat orginalet till en tryckare. Hoppas att det blir bra :)

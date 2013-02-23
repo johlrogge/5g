@@ -22,3 +22,7 @@
  * ![Tröjtryck](a/../images/sweater.svg)
    
    Jelena ska få en fin tröja i födelsedagspresent
+   
+ * ![Lövverk](a/../images/foliage.svg)
+   
+   En bild för att illustrera löv
