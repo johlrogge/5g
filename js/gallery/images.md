@@ -25,4 +25,8 @@
    
  * ![Lövverk](a/../images/foliage.svg)
    
-   En bild för att illustrera löv
+   En bild för att illustrera foliage
+
+ * ![Grenar](a/../images/twig.svg)
+ 
+   En bild för att illustrera twig

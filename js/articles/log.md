@@ -1,5 +1,10 @@
 Log
 ==========
+2013-02-24 twig grafik
+----------------------------------------------------------
+En ikon för twig. Ytterligare en del i mitt *unframework*. Jag testar en mer stiliserad stil. Jag tror att det funkar bättre. Jag kommer att
+återbesöka foliage och köra samma stil.
+
 2013-02-23 Foliage grafik
 ----------------------------------------------------------
 Jag håller på att arbeta med ett litet *unframework* som är det senaste och hetaste inom webutveckling. Det består av ett gäng små 
