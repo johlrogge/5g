@@ -87,7 +87,9 @@ define(['foliage',
                            function(parent) {
                                console.log(parent);
                                var thumbs = $('* .thumbnail', parent);
-                               _.each(thumbs, function(child) {$(child).height(300);});
+                               _.each(thumbs, function(child) {$(child).height(300);
+                                                               $('> img', child).height(300);
+                                                              });
                            });
            }
 
