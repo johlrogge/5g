@@ -1,5 +1,9 @@
 Log
 ==========
+2013-02-25 twig grafik
+----------------------------------------------------------
+Ett mer stiliserat lövverk
+
 2013-02-24 twig grafik
 ----------------------------------------------------------
 En ikon för twig. Ytterligare en del i mitt *unframework*. Jag testar en mer stiliserad stil. Jag tror att det funkar bättre. Jag kommer att
