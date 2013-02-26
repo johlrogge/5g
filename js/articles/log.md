@@ -1,6 +1,10 @@
 Log
 ==========
-2013-02-25 twig grafik
+2013-02-25 blossom grafik
+----------------------------------------------------------
+En bild för att representera blossom. En del av herbalism.
+
+2013-02-25 foliage grafik
 ----------------------------------------------------------
 Ett mer stiliserat lövverk
 
