@@ -1,6 +1,10 @@
 Log
 ==========
-2013-02-25 blossom grafik
+2013-02-27 papyrus grafik
+----------------------------------------------------------
+En bild för att representera papyrus. En del av herbalism.
+
+2013-02-26 blossom grafik
 ----------------------------------------------------------
 En bild för att representera blossom. En del av herbalism.
 

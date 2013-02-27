@@ -34,3 +34,7 @@
  * ![Blommor](a/../images/blossom.svg)
  
    En bild för att illustrera blossom
+
+ * ![Papyrus](a/../images/papyrus.svg)
+ 
+   En bild för att illustrera papyrus
