@@ -1,5 +1,9 @@
 Log
 ==========
+2013-03-01 papyrus grafik
+----------------------------------------------------------
+Fortsatte rita papyrus. Mera *hår* och blad blev det. Jag vände också på ordningen i galleriet så att det senaste alstret hamnar högst upp.
+
 2013-02-27 papyrus grafik
 ----------------------------------------------------------
 En bild för att representera papyrus. En del av herbalism.
