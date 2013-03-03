@@ -1,4 +1,8 @@
- * ![Papyrus](a/../images/papyrus.svg)
+ * ![Papyrus](a/../images/bud.svg)
+ 
+   En bild för att illustrera knoppar
+
+* ![Papyrus](a/../images/papyrus.svg)
  
    En bild för att illustrera papyrus
 

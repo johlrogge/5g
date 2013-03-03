@@ -1,5 +1,9 @@
 Log
 ==========
+2013-03-03 Gjorde om lövverket och skapade knoppar
+----------------------------------------------------------
+Jag bestämde mig för att ändra lövverket i samma stil som blommorna och jag ritade en blid för *bud* (knopp) i samma stil.
+
 2013-03-01 papyrus grafik
 ----------------------------------------------------------
 Fortsatte rita papyrus. Mera *hår* och blad blev det. Jag vände också på ordningen i galleriet så att det senaste alstret hamnar högst upp.
