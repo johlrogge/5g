@@ -1,5 +1,9 @@
 Log
 ==========
+2013-03-04 Började flytta över bilder på herbalism sajten
+----------------------------------------------------------
+Jag började flytta över bilder till [herbalism sajten](http://herbalism.github.com/site/#index). Hittils är foliae och twig på plats.
+
 2013-03-03 Gjorde om lövverket och skapade knoppar
 ----------------------------------------------------------
 Jag bestämde mig för att ändra lövverket i samma stil som blommorna och jag ritade en blid för *bud* (knopp) i samma stil.
