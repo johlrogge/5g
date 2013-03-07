@@ -1,5 +1,9 @@
 Log
 ==========
+2013-03-07 And we're back!
+---------------------------------------------------------
+Tro det eller ej men jag har faktiskt jobbat med projektet senaste dagarna även om gårdagen gick åt helt till att felsöka publiceringen på github och dagen innan märkte jag att jag inte kunde publicera den dagens arbete. Så det som har hänt är att jag limmat in mina fantastiskt vackra bilder i [herbalism sajten](http://herbalism.github.com/site/#index). Jag han även påbörja en bild för phloem som är inlimmad där men inte här.
+
 2013-03-04 Började flytta över bilder på herbalism sajten
 ----------------------------------------------------------
 Jag började flytta över bilder till [herbalism sajten](http://herbalism.github.com/site/#index). Hittils är foliae och twig på plats.
