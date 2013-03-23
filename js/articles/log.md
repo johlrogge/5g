@@ -1,5 +1,9 @@
 Log
 ==========
+2013-03-23 ISO 8601 gate
+---------------------------------------------------------
+Då jag till min stora förfäran blev varse att Sverige överger iso 8601 på körkorten till förmån för något Europeiskt djävla hittepå var jag tvungen att agera. Jag plöjde ner massvis av energi i en sån därn infogräfix om fördelarna med ISO 8601 jämfört med den andra dyngan. Det gick rätt ok men tog tid och nu är den ["klar"](images/iso8601.png)
+
 2013-03-07 And we're back!
 ---------------------------------------------------------
 Tro det eller ej men jag har faktiskt jobbat med projektet senaste dagarna även om gårdagen gick åt helt till att felsöka publiceringen på github och dagen innan märkte jag att jag inte kunde publicera den dagens arbete. Så det som har hänt är att jag limmat in mina fantastiskt vackra bilder i [herbalism sajten](http://herbalism.github.com/site/#index). Jag han även påbörja en bild för phloem som är inlimmad där men inte här.

@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600px"
+   height="1200px"
+   id="svg7015"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="iso8601.svg">
+  <defs
+     id="defs7017">
+    <linearGradient
+       id="linearGradient7055">
+      <stop
+         style="stop-color:#fcfafa;stop-opacity:1;"
+         offset="0"
+         id="stop7057" />
+      <stop
+         style="stop-color:#020101;stop-opacity:0;"
+         offset="1"
+         id="stop7059" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7045">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7047" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.49640289;"
+         offset="1"
+         id="stop7049" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7045"
+       id="linearGradient7051"
+       x1="806.66663"
+       y1="216.66667"
+       x2="800"
+       y2="216.66667"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.50122891,0,0,0.07209166,798.1957,2.2915036)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7055"
+       id="linearGradient7061"
+       x1="796.66663"
+       y1="256.66669"
+       x2="800"
+       y2="256.66666"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.50122891,0,0,0.07209166,798.1957,2.2915036)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.42426407"
+     inkscape:cx="1042.8111"
+     inkscape:cy="983.42939"
+     inkscape:current-layer="layer3"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1065"
+     inkscape:window-x="0"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="800,1258.3333"
+       id="guide7025" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1600,1343.3333"
+       id="guide7029" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1.6666667,1263.3333"
+       id="guide7033" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1200,1408.3333"
+       id="guide7070" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7020">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:url(#linearGradient7051);fill-opacity:1;fill-rule:evenodd;stroke:#445016;stroke-width:0.07603623;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.9000001;stroke-opacity:1;stroke-dasharray:none"
+       id="rect7035"
+       width="400.98315"
+       height="86.990593"
+       x="1199.1788"
+       y="2.1713505" />
+    <rect
+       style="fill:url(#linearGradient7061);fill-opacity:1;fill-rule:evenodd;stroke:#445016;stroke-width:0.07603623;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.9000001;stroke-opacity:1;stroke-dasharray:none"
+       id="rect7053"
+       width="400.14774"
+       height="86.630142"
+       x="799.03107"
+       y="2.2915034" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Units">
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sansation;-inkscape-font-specification:Sansation"
+       x="450"
+       y="420"
+       id="text3063"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3065"
+         x="450"
+         y="420" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sansation;-inkscape-font-specification:Sansation"
+       x="448.33334"
+       y="410"
+       id="text3067"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3069"
+         x="448.33334"
+         y="410" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sansation;-inkscape-font-specification:Sansation"
+       x="475"
+       y="460"
+       id="text3071"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3073"
+         x="475"
+         y="460" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="info">
+    <text
+       xml:space="preserve"
+       style="font-size:20.0460434px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="962.43085"
+       y="25.419956"
+       id="text7064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7066"
+         x="962.43085"
+         y="25.419956">ISO 8601</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.0460434px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="1296.0887"
+       y="20.065861"
+       id="text7064-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7066-1"
+         x="1296.0887"
+         y="20.065861">Europeiskt djävla hittepå</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36.08287811px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="877.05865"
+       y="71.392426"
+       id="text7093"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7095"
+         x="877.05865"
+         y="71.392426">ÅÅÅÅ-MM-DD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36.08287811px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="1305.2671"
+       y="71.392426"
+       id="text7093-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7095-5"
+         x="1305.2671"
+         y="71.392426">DD.MM.ÅÅ</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3020"
+       width="789.16675"
+       height="288.33328"
+       x="5.0000014"
+       y="123.33334"
+       ry="17.443653" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3022"
+       width="26.059263"
+       height="194.2923"
+       x="27.355185"
+       y="181.56348"
+       ry="0" />
+    <rect
+       ry="0"
+       y="359.88654"
+       x="54.598961"
+       height="15.96923"
+       width="26.059263"
+       id="rect3028"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3034"
+       width="26.059263"
+       height="0.53230768"
+       x="82.575516"
+       y="375.32346"
+       ry="0" />
+    <rect
+       ry="0"
+       y="181.56348"
+       x="112.68208"
+       height="194.2923"
+       width="26.059263"
+       id="rect3095"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3097"
+       width="26.059263"
+       height="3.2381873"
+       x="142.19746"
+       y="372.61758"
+       ry="0" />
+    <rect
+       ry="0"
+       y="374.58203"
+       x="140.31696"
+       height="0.00053230766"
+       width="13.029632"
+       id="rect3099"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3075-3"
+       y="184.76649"
+       x="106.29922"
+       style="font-size:10.10668182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         y="184.76649"
+         x="106.29922"
+         id="tspan3077-4"
+         sodipodi:role="line">Tid</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3151"
+       width="26.059263"
+       height="194.2923"
+       x="183.79485"
+       y="181.56348"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.10668182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="174.80006"
+       y="184.76649"
+       id="text3153"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         sodipodi:role="line"
+         id="tspan3155"
+         x="174.80006"
+         y="184.76649">Pengar</tspan><tspan
+         sodipodi:role="line"
+         x="174.80006"
+         y="197.39984"
+         id="tspan3165" /></text>
+    <rect
+       ry="0"
+       y="356.42651"
+       x="211.59714"
+       height="19.42923"
+       width="26.059263"
+       id="rect3167"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3151-4"
+       width="26.059263"
+       height="194.2923"
+       x="262.01468"
+       y="181.56348"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.10668182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="248.73149"
+       y="186.10948"
+       id="text3153-3"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         sodipodi:role="line"
+         id="tspan3155-0"
+         x="248.73149"
+         y="186.10948">Längd</tspan><tspan
+         sodipodi:role="line"
+         x="248.73149"
+         y="198.74283"
+         id="tspan3165-1" /></text>
+    <rect
+       ry="0"
+       y="356.42651"
+       x="290.36276"
+       height="19.42923"
+       width="26.059263"
+       id="rect3167-2"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3252"
+       width="26.059263"
+       height="1.9429231"
+       x="317.60654"
+       y="373.91281"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="33.157196"
+       y="151.5533"
+       id="text7093-5"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         sodipodi:role="line"
+         id="tspan7095-3"
+         x="33.157196"
+         y="151.5533"
+         style="font-size:13.47557545px">Storleksförhållanden</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3075"
+       y="182.99629"
+       x="27.542377"
+       style="font-size:10.10668182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         y="182.99629"
+         x="27.542377"
+         id="tspan3077"
+         sodipodi:role="line">Datum</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3083"
+       y="411.80704"
+       x="32.034233"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         style="font-size:13.47557545px"
+         y="411.80704"
+         x="32.034233"
+         id="tspan3085"
+         sodipodi:role="line">Å</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="57.876602"
+       y="411.8334"
+       id="text3087"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         sodipodi:role="line"
+         id="tspan3089"
+         x="57.876602"
+         y="411.8334"
+         style="font-size:13.47557545px">M</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3091"
+       y="411.9913"
+       x="84.631157"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         style="font-size:13.47557545px"
+         y="411.9913"
+         x="84.631157"
+         id="tspan3093"
+         sodipodi:role="line">D</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3083-4"
+       y="411.85312"
+       x="112.12331"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         style="font-size:13.47557545px"
+         y="411.85312"
+         x="112.12331"
+         id="tspan3085-0"
+         sodipodi:role="line">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="140.61783"
+       y="411.8334"
+       id="text3143"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         sodipodi:role="line"
+         id="tspan3145"
+         x="140.61783"
+         y="411.8334"
+         style="font-size:13.47557545px">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="179.50119"
+       y="411.85312"
+       id="text3157"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         sodipodi:role="line"
+         id="tspan3159"
+         x="179.50119"
+         y="411.85312"
+         style="font-size:13.47557545px">Kr</tspan><tspan
+         sodipodi:role="line"
+         x="179.50119"
+         y="428.6976"
+         style="font-size:13.47557545px"
+         id="tspan3199" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3161"
+       y="412.49509"
+       x="202.05786"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         style="font-size:13.47557545px"
+         y="412.49509"
+         x="202.05786"
+         id="tspan3163"
+         sodipodi:role="line">Öre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="251.39975"
+       y="410.68988"
+       id="text3157-3"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         sodipodi:role="line"
+         x="251.39975"
+         y="410.68988"
+         style="font-size:13.47557545px"
+         id="tspan3227">m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="277.85599"
+       y="410.85242"
+       id="text3157-3-3"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         sodipodi:role="line"
+         x="277.85599"
+         y="410.85242"
+         style="font-size:13.47557545px"
+         id="tspan3227-3">dm</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3254"
+       y="410.85242"
+       x="304.80713"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"
+       transform="scale(1.0548079,0.94803993)"><tspan
+         id="tspan3256"
+         style="font-size:13.47557545px"
+         y="410.85242"
+         x="304.80713"
+         sodipodi:role="line">cm</tspan><tspan
+         style="font-size:13.47557545px"
+         y="427.6969"
+         x="304.80713"
+         sodipodi:role="line"
+         id="tspan3258" /></text>
+    <rect
+       ry="17.443653"
+       y="123.33334"
+       x="5.0000014"
+       height="288.33328"
+       width="789.16675"
+       id="rect3470"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       ry="0"
+       y="181.56348"
+       x="27.355185"
+       height="194.2923"
+       width="26.059263"
+       id="rect3472"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3474"
+       width="26.059263"
+       height="15.96923"
+       x="54.598961"
+       y="359.88654"
+       ry="0" />
+    <rect
+       ry="0"
+       y="375.32346"
+       x="82.575516"
+       height="0.53230768"
+       width="26.059263"
+       id="rect3476"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3478"
+       width="26.059263"
+       height="194.2923"
+       x="112.68208"
+       y="181.56348"
+       ry="0" />
+    <rect
+       ry="0"
+       y="372.61758"
+       x="142.19746"
+       height="3.2381873"
+       width="26.059263"
+       id="rect3480"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3482"
+       width="13.029632"
+       height="0.00053230766"
+       x="140.31696"
+       y="374.58203"
+       ry="0" />
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       xml:space="preserve"
+       style="font-size:10.10668182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="106.29922"
+       y="184.76649"
+       id="text3484"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3486"
+         x="106.29922"
+         y="184.76649">Tid</tspan></text>
+    <rect
+       ry="0"
+       y="181.56348"
+       x="183.79485"
+       height="194.2923"
+       width="26.059263"
+       id="rect3488"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       sodipodi:linespacing="125%"
+       id="text3490"
+       y="184.76649"
+       x="174.80006"
+       style="font-size:10.10668182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         y="184.76649"
+         x="174.80006"
+         id="tspan3492"
+         sodipodi:role="line">Pengar</tspan><tspan
+         id="tspan3494"
+         y="197.39984"
+         x="174.80006"
+         sodipodi:role="line" /></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3496"
+       width="26.059263"
+       height="19.42923"
+       x="211.59714"
+       y="356.42651"
+       ry="0" />
+    <rect
+       ry="0"
+       y="181.56348"
+       x="262.01468"
+       height="194.2923"
+       width="26.059263"
+       id="rect3498"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       sodipodi:linespacing="125%"
+       id="text3500"
+       y="186.10948"
+       x="248.73149"
+       style="font-size:10.10668182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         y="186.10948"
+         x="248.73149"
+         id="tspan3502"
+         sodipodi:role="line">Längd</tspan><tspan
+         id="tspan3504"
+         y="198.74283"
+         x="248.73149"
+         sodipodi:role="line" /></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3506"
+       width="26.059263"
+       height="19.42923"
+       x="290.36276"
+       y="356.42651"
+       ry="0" />
+    <rect
+       ry="0"
+       y="373.91281"
+       x="317.60654"
+       height="1.9429231"
+       width="26.059263"
+       id="rect3508"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       sodipodi:linespacing="125%"
+       id="text3510"
+       y="151.5533"
+       x="33.157196"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         style="font-size:13.47557545px"
+         y="151.5533"
+         x="33.157196"
+         id="tspan3512"
+         sodipodi:role="line">Storleksförhållanden</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       xml:space="preserve"
+       style="font-size:10.10668182px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="27.542377"
+       y="182.99629"
+       id="text3514"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3516"
+         x="27.542377"
+         y="182.99629">Datum</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="32.034233"
+       y="411.80704"
+       id="text3518"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3520"
+         x="32.034233"
+         y="411.80704"
+         style="font-size:13.47557545px">Å</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       sodipodi:linespacing="125%"
+       id="text3522"
+       y="411.8334"
+       x="57.876602"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         style="font-size:13.47557545px"
+         y="411.8334"
+         x="57.876602"
+         id="tspan3524"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="84.631157"
+       y="411.9913"
+       id="text3526"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3528"
+         x="84.631157"
+         y="411.9913"
+         style="font-size:13.47557545px">D</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="112.12331"
+       y="411.85312"
+       id="text3530"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3532"
+         x="112.12331"
+         y="411.85312"
+         style="font-size:13.47557545px">T</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       sodipodi:linespacing="125%"
+       id="text3534"
+       y="411.8334"
+       x="140.61783"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         style="font-size:13.47557545px"
+         y="411.8334"
+         x="140.61783"
+         id="tspan3536"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       sodipodi:linespacing="125%"
+       id="text3538"
+       y="411.85312"
+       x="179.50119"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         style="font-size:13.47557545px"
+         y="411.85312"
+         x="179.50119"
+         id="tspan3540"
+         sodipodi:role="line">Kr</tspan><tspan
+         id="tspan3542"
+         style="font-size:13.47557545px"
+         y="428.6976"
+         x="179.50119"
+         sodipodi:role="line" /></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="202.05786"
+       y="412.49509"
+       id="text3544"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3546"
+         x="202.05786"
+         y="412.49509"
+         style="font-size:13.47557545px">Öre</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       sodipodi:linespacing="125%"
+       id="text3548"
+       y="410.68988"
+       x="251.39975"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         id="tspan3550"
+         style="font-size:13.47557545px"
+         y="410.68988"
+         x="251.39975"
+         sodipodi:role="line">m</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       sodipodi:linespacing="125%"
+       id="text3552"
+       y="410.85242"
+       x="277.85599"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         id="tspan3554"
+         style="font-size:13.47557545px"
+         y="410.85242"
+         x="277.85599"
+         sodipodi:role="line">dm</tspan></text>
+    <text
+       transform="scale(1.0548079,0.94803993)"
+       xml:space="preserve"
+       style="font-size:40.42672729px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="304.80713"
+       y="410.85242"
+       id="text3556"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="304.80713"
+         y="410.85242"
+         style="font-size:13.47557545px"
+         id="tspan3558">cm</tspan><tspan
+         id="tspan3560"
+         sodipodi:role="line"
+         x="304.80713"
+         y="427.6969"
+         style="font-size:13.47557545px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sansation;-inkscape-font-specification:Sansation"
+       x="1070.8333"
+       y="171.66667"
+       id="text3562"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3564"
+         x="1070.8333"
+         y="171.66667" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3566"
+       y="171.39243"
+       x="1200.7583"
+       style="font-size:36.08287811px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         y="171.39243"
+         x="1200.7583"
+         id="tspan3568"
+         sodipodi:role="line">Lexicografisk sortering</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36.08287811px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       x="981.88129"
+       y="232.11584"
+       id="text3570"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="981.88129"
+         y="232.11584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Imprima;-inkscape-font-specification:Imprima"
+         id="tspan3594">1901-08-30</tspan><tspan
+         sodipodi:role="line"
+         x="981.88129"
+         y="277.21945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Imprima;-inkscape-font-specification:Imprima"
+         id="tspan3600">1975-02-04</tspan><tspan
+         sodipodi:role="line"
+         x="981.88129"
+         y="322.32303"
+         id="tspan3580"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Imprima;-inkscape-font-specification:Imprima">2010-10-05</tspan><tspan
+         sodipodi:role="line"
+         x="981.88129"
+         y="367.42664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Imprima;-inkscape-font-specification:Imprima"
+         id="tspan3602">2012-10-01</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3576"
+       y="230.5591"
+       x="1332.2395"
+       style="font-size:36.08287811px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+       xml:space="preserve"><tspan
+         y="230.5591"
+         x="1332.2395"
+         id="tspan3578"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Imprima;-inkscape-font-specification:Imprima">01.10.12</tspan><tspan
+         y="275.66269"
+         x="1332.2395"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Imprima;-inkscape-font-specification:Imprima"
+         id="tspan3604">04.02.75</tspan><tspan
+         y="320.7663"
+         x="1332.2395"
+         sodipodi:role="line"
+         id="tspan3588"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Imprima;-inkscape-font-specification:Imprima">05.10.10</tspan><tspan
+         y="365.8699"
+         x="1332.2395"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Imprima;-inkscape-font-specification:Imprima"
+         id="tspan3596">30.08.01</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3606"
+       width="1.1670001"
+       height="20.833334"
+       x="1191.1666"
+       y="210"
+       ry="0" />
+    <rect
+       ry="0"
+       y="256"
+       x="1118.3336"
+       height="20.833334"
+       width="74"
+       id="rect3608"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3610"
+       width="109"
+       height="20.833334"
+       x="1083.3336"
+       y="300"
+       ry="0" />
+    <rect
+       ry="0"
+       y="344"
+       x="1081.3336"
+       height="20.833334"
+       width="111"
+       id="rect3612"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3614"
+       width="111"
+       height="20.833334"
+       x="1209.3336"
+       y="210"
+       ry="0" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3616"
+       width="111"
+       height="20.833334"
+       x="1209.3336"
+       y="300.05554"
+       ry="0" />
+    <rect
+       ry="0"
+       y="210"
+       x="1191.1666"
+       height="20.833334"
+       width="1.1670001"
+       id="rect3618"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3620"
+       width="1.1670001"
+       height="20.833334"
+       x="1209.3336"
+       y="344"
+       ry="0" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3622"
+       width="74"
+       height="20.833334"
+       x="1209.3336"
+       y="254.11111"
+       ry="0" />
+  </g>
+</svg>

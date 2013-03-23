@@ -1,8 +1,12 @@
+ * ![ISO8601](a/../images/iso8601.png)
+ 
+   ISO 8601 eller inget
+
  * ![Papyrus](a/../images/bud.svg)
  
    En bild för att illustrera knoppar
 
-* ![Papyrus](a/../images/papyrus.svg)
+ * ![Papyrus](a/../images/papyrus.svg)
  
    En bild för att illustrera papyrus
 
