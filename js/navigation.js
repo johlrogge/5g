@@ -1,5 +1,5 @@
-define(['foliage/bootstrap', 'jquery'],
-       function(fbs, $){
+define(['foliage/bootstrap', 'jquery', 'foliage', 'bud', 'beats/time'],
+       function(fbs, $, f, b, time){
 	   var docked = false;
 	   function scrollTop() {
                return document.body.scrollTop || document.documentElement.scrollTop;
@@ -26,5 +26,9 @@ define(['foliage/bootstrap', 'jquery'],
 		   {name: 'Hem', location:'index'},
 		   {name: 'Galleri', location:'gallery'},
 		   {name: 'Mer inspiration', location:'links'}
-	       ));
+	       ),
+               f.ul({'class':'nav pull-right'}, 
+                    b.bind(time, f.p))
+               
+           );
        });

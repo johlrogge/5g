@@ -34,3 +34,6 @@
 [submodule "modules/bootstrap-lightbox"]
 	path = modules/bootstrap-lightbox
 	url = git://github.com/jbutz/bootstrap-lightbox.git
+[submodule "modules/bud"]
+	path = modules/bud
+	url = git://github.com/herbalism/bud.git
