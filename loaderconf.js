@@ -9,6 +9,7 @@ curl = {
 	'curl/plugin/js': '../modules/curl/src/curl/plugin/js',
 	'curl/plugin/text': '../modules/curl/src/curl/plugin/text',
 	'foliage/bootstrap': '../candidates/foliage/bootstrap',
+	'foliage/transitions': '../candidates/foliage/transitions',
 	'bootstrap/css': '../modules/bootstrap/docs/assets/css',
 	'bootstrap/less': '../modules/bootstrap/less',
 	'bootstrap/less/variables.less': '../less/variables.less',

@@ -1,5 +1,5 @@
-define(['foliage/bootstrap', 'jquery', 'foliage', 'bud', 'beats/time'],
-       function(fbs, $, f, b, time){
+define(['foliage/bootstrap', 'jquery', 'foliage', 'bud', 'beats/time', 'foliage/transitions'],
+       function(fbs, $, f, b, time, t){
 	   var docked = false;
 	   function scrollTop() {
                return document.body.scrollTop || document.documentElement.scrollTop;
@@ -28,7 +28,7 @@ define(['foliage/bootstrap', 'jquery', 'foliage', 'bud', 'beats/time'],
 		   {name: 'Mer inspiration', location:'links'}
 	       ),
                f.ul({'class':'nav pull-right'}, 
-                    b.bind(time, f.p))
+                    b.bind(time, t.fadeInOut(450)))
                
            );
        });
